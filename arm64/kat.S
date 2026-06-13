@@ -2,5 +2,5 @@
 
 _start:
 	mov	x8, #93
-	mov	x0, #11
+	mov	x0, #0
 	svc	#0
