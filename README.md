@@ -1,3 +1,3 @@
 # Kat
 
-Clone of GNU coreutils `cat` in assembly.
+`cat` clone in assembly. Syscall based. Free of libc.
